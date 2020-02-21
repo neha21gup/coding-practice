@@ -1,4 +1,4 @@
-//Reverse a char array
+//Function that reverses a string. The input string is given as an array of characters char[].
 
 public class ReverseString {
     public static void main(String[] args){
